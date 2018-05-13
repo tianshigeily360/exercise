@@ -1,0 +1,45 @@
+.header {
+    padding-top: 50px;
+    padding-bottom: 10000px;
+    margin-bottom: -10000px;
+    overflow: hidden;
+    float: left;
+    width: 18%;
+    background: #5baeff;
+    color: #fff;
+    text-align: center;
+    font-size: x-large;
+}
+
+h2 {
+    font-size: xx-large;
+}
+
+.content {
+    float: left;
+    margin-left:2%;
+    width:80%;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    line-height:0;
+    clear: both;
+    visibility:hidden;
+}
+
+.left1 {
+    float:left;
+}
+
+.left2 {
+    margin-left:10%;
+    float:left;
+}
+
+.right {
+    margin-left:10%;
+    float:left;
+}
+
