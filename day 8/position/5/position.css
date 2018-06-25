@@ -1,0 +1,26 @@
+body {
+    height: 1000px;
+    position: relative;
+}
+
+.left,.main {
+    width: 300px;
+    height: 100%;
+    position: absolute;
+}
+
+.left {
+    left: 0;
+    background-color: #8bacff;
+}
+
+.main {
+    left: 300px;
+    background-color: #A8FFF6;
+}
+
+.right {
+    height: 100%;
+    background-color: #ffab6d;
+    margin-left: 600px;
+}

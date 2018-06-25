@@ -1,0 +1,17 @@
+.float {
+    height:1000px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.left {
+    width:300px;
+    background-color: #ff6700;
+    height:100%;
+}
+
+.right {
+    flex: 1;
+    height:100%;
+    background-color: #5295ff;
+}

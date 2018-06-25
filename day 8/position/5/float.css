@@ -1,0 +1,23 @@
+body {
+    height: 1000px;
+}
+
+.left,.main {
+    width: 300px;
+    height: 100%;
+    float: left;
+}
+
+.left {
+    background-color: #8bacff;
+}
+
+.main {
+    background-color: #A8FFF6;
+}
+
+.right {
+    height: 100%;
+    background-color: #ffab6d;
+    margin-left: 600px;
+}

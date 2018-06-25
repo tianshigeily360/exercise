@@ -1,0 +1,31 @@
+body {
+    height: 1000px;
+}
+
+.right {
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+
+.body {
+    height: 100%;
+    margin-left: 600px;
+    background-color: #ffab6d;
+}
+
+.left,.main {
+    width: 300px;
+    height: 100%;
+    float: left;
+}
+
+.left {
+    margin-left: -100%;
+    background-color: #8bacff;
+}
+
+.main {
+    margin-left: calc(300px - 100%);
+    background-color: #A8FFF6;
+}

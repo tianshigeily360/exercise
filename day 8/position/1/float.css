@@ -1,0 +1,18 @@
+.float {
+    height:1000px;
+    overflow: auto;
+}
+
+.left {
+    float: left;
+    width:30%;
+    background-color: #ff6700;
+    height:100%;
+}
+
+.right {
+    float: left;
+    height:100%;
+    width:70%;
+    background-color: #5295ff;
+}
