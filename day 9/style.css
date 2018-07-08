@@ -1,0 +1,562 @@
+body,header,form,button,h1,h2,h3,h4,h5,h6,p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #ffab6d;
+}
+
+header {
+    height: 700px;
+    width: 1130px;
+    margin: auto;
+    background: url(PSD/images/background2.png) no-repeat,
+    url(PSD/images/background1.png) no-repeat;
+    background-size: 100%;
+}
+
+header h1 {
+    text-align: center;
+    padding-top: 150px;
+    color: #fff;
+    font-weight: 300;
+    font-size: 34px;
+}
+
+header h4 {
+    color: #fff;
+    text-align: center;
+    width: 560px;
+    margin: auto;
+    font-weight: 100;
+    opacity: 0.6;
+    padding-top: 58px;
+    line-height: 25px;
+}
+
+.box {
+    height: 176px;
+    width: 684px;
+    margin: 74px auto 0;
+    color: #fff;
+    border: thin solid rgba(255, 255, 255, 0.2);
+}
+
+.box h5 {
+    text-align: center;
+    padding-top: 40px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.box p {
+    text-align: center;
+    font-size: 8px;
+    opacity: 0.3;
+    letter-spacing: 1px;
+    margin-top: 14px;
+}
+
+.box form {
+    text-align: center;
+    margin-top: 32px;
+}
+
+.box input:first-child,.box input:nth-child(2) {
+    background-color:transparent;
+    width: 206px;
+    height: 35px;
+    border: thin solid rgba(255, 255, 255, 0.2);
+    padding-left: 16px;
+    margin-right: 21px;
+}
+
+.box input:nth-child(2) {
+    color: #64625D;
+}
+
+#submit {
+    color: #000;
+    font-size: 8px;
+}
+
+.box input {
+    color: #fff;
+}
+
+.article1 {
+    width: 1130px;
+    height: 550px;
+    margin: auto;
+    background-color: #fff;
+}
+
+.article1 h5 {
+    text-align: center;
+    padding-top: 63px;
+    font-weight: 400;
+}
+
+.article1 h1 {
+    text-align: center;
+    white-space: nowrap;
+    width: 463px;
+    margin: auto;
+    font-weight: 300;
+    padding-top: 28px;
+}
+
+.icon {
+    width: 710px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 67px;
+}
+
+.mobile,.fluid {
+    padding-right: 120px;
+}
+
+
+.icon>div {
+    width: 295px;
+    padding-bottom: 60px;
+}
+
+.m-img {
+    float: left;
+    width: 50px;
+    padding-top: 5px;
+}
+
+.m-img img {
+    float: right;
+    width: 70%;
+}
+
+.content {
+    margin-left: 80px;
+}
+
+.icon h3 {
+    font-weight: 400;
+}
+
+.icon p {
+    font-size: 12px;
+    font-weight: 300;
+    margin-top: 16px;
+}
+
+.article2 {
+    width: 1130px;
+    height: 565px;
+    margin: auto;
+    background: url(PSD/images/前端学院设计图_0002s_0002s_0004_Background.png) no-repeat,
+    url(PSD/images/前端学院设计图_0002s_0002s_0005_图层-2.png);
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+.text1 {
+    color: #fff;
+    margin-right: 457px;
+    margin-left: 225px;
+    padding-top: 130px;
+    width: 260px;
+    text-align: left;
+}
+
+.text1 h1 {
+    font-weight: 300;
+    font-size: 30px;
+}
+
+.text1 p {
+    font-weight: 200;
+    font-size: 13px;
+    opacity: 0.6;
+    margin-top: 34px;
+    margin-bottom: 40px;
+}
+
+.r-img {
+    float: right;
+}
+
+.r-img img{
+    height: 425px;
+    margin-top: 70px;
+}
+
+.article2 form {
+    margin-left: 225px;
+}
+
+.article2 form button {
+    padding: 18px;
+    font-size: 8px;
+    margin-right: 21px;
+    letter-spacing: 1px;
+}
+
+form button:nth-child(2) {
+    background-color: transparent;
+    border: thin solid rgba(255, 255, 255, 0.2);
+    color: #fff;
+}
+
+.article3 {
+    width: 1130px;
+    margin: auto;
+    background-color: #fff;
+    border-bottom: 1px solid grey;
+}
+
+.article3 h1 {
+    text-align: center;
+    font-weight: 300;
+    padding-top: 72px;
+    padding-bottom: 60px;
+}
+
+.main1 {
+    display: flex;
+    width: 720px;
+    margin: auto;
+}
+
+.hero {
+    margin-right: 62px;
+    text-align: center;
+}
+
+.main1 p {
+    font-size: 13px;
+    font-weight: 200;
+    line-height: 20px;
+    padding: 30px 0;
+}
+
+.article4 {
+    width: 1130px;
+    margin: auto;
+    background-color: #fff;
+    border-bottom: 1px solid grey;
+}
+
+.main2 {
+    width: 720px;
+    margin: auto;
+    padding-top: 80px;
+}
+
+.l-img1 {
+    float: left;
+    width: 405px;
+    height: 250px;
+    background: url("PSD/images/前端学院设计图_0004s_0000s_0000s_0000_图层-3.png") no-repeat;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+.main2:after {
+    content: "";
+    display: block;
+    line-height: 0;
+    clear: both;
+}
+
+.text2 {
+    margin: 50px 0 0 477px;
+}
+
+.article4 h3 {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.article4 p {
+    padding-top: 20px;
+    font-weight: 200;
+    font-size: 13px;
+    line-height: 21px;
+}
+
+.main3 {
+    width: 720px;
+    margin: auto;
+    padding: 80px 0;
+}
+
+.l-img2 {
+    float: right;
+    width: 405px;
+    height: 250px;
+    background: url("PSD/images/前端学院设计图_0004s_0001s_0000s_0000_图层-4.png") no-repeat;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+.main3:after {
+    content: "";
+    display: block;
+    line-height: 0;
+    clear: both;
+}
+
+.text3 {
+    padding: 50px 477px 0 0;
+}
+
+.article5 {
+    width: 1130px;
+    margin: auto;
+    background-color: #fff;
+    border-bottom: 1px solid grey;
+}
+
+.text4 {
+    width: 492px;
+    margin: auto;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.text4 h1 {
+    font-weight: 300;
+}
+
+.text4 p {
+    font-weight: 200;
+    font-size: 13px;
+    padding-top: 26px;
+}
+
+.main4 {
+    width: 720px;
+    margin: 60px auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.t-img1,.t-img2,.t-img3,.t-img4 {
+    background: no-repeat;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    width: 333px;
+    height: 242px;
+    margin-bottom: 20px;
+}
+
+.t-img1 {
+    background-image: url("PSD/images/前端学院设计图_0005s_0001s_0000s_0002_张思远大.png");
+    margin-right: 25px;
+}
+
+.t-img2 {
+    background-image: url("PSD/images/前端学院设计图_0005s_0001s_0001s_0000_2.png");
+    margin-left: 25px;
+}
+
+.t-img3 {
+    background-image: url("PSD/images/前端学院设计图_0005s_0001s_0002s_0000_3.png");
+    margin-right: 25px;
+}
+
+.t-img4 {
+    background-image: url("PSD/images/前端学院设计图_0005s_0001s_0003s_0000_沈大师大_meitu_3.png");
+    margin-left: 25px;
+}
+
+.hover {
+    display: none;
+    text-align: center;
+}
+
+.hover h4 {
+    font-weight: 300;
+    color: #fff;
+    padding-top: 80px;
+}
+
+.hover p {
+    font-weight: 200;
+    font-size: 10px;
+    opacity: 0.4;
+    color: #fff;
+    padding-top: 10px;
+    letter-spacing: 1px;
+}
+
+.i-img {
+    padding-top: 25px;
+    letter-spacing: 17px;
+}
+
+.i-img img {
+    width: 12%;
+}
+
+.main4>div:hover .hover{
+    display: block;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    width: 333px;
+    height: 242px;
+}
+
+.t-img1:hover .hover{
+     background-image: url("PSD/images/前端学院设计图_0005s_0001s_0000s_0001_Background-拷贝.png"),
+     url("PSD/images/前端学院设计图_0005s_0001s_0000s_0002_张思远大.png");
+}
+
+.t-img2:hover .hover{
+    background-image: url("PSD/images/前端学院设计图_0005s_0001s_0000s_0001_Background-拷贝.png"),
+    url("PSD/images/前端学院设计图_0005s_0001s_0001s_0000_2.png");
+}
+
+.t-img3:hover .hover{
+    background-image: url("PSD/images/前端学院设计图_0005s_0001s_0000s_0001_Background-拷贝.png"),
+    url("PSD/images/前端学院设计图_0005s_0001s_0002s_0000_3.png");
+}
+
+.t-img4:hover .hover{
+    background-image: url("PSD/images/前端学院设计图_0005s_0001s_0000s_0001_Background-拷贝.png"),
+    url("PSD/images/前端学院设计图_0005s_0001s_0003s_0000_沈大师大_meitu_3.png");
+}
+
+.article6 {
+    width: 1130px;
+    margin: auto;
+    background-color: #fff;
+}
+
+.main5 {
+    width: 720px;
+    margin: auto;
+    display: flex;
+    padding: 80px 0;
+}
+
+.form {
+    width: 333px;
+    border: thin solid rgba(52, 56, 53, 0.2);
+    margin-right: 20px;
+}
+
+.form form {
+    display: flex;
+    flex-flow: column wrap;
+    margin: auto;
+}
+
+.form form input,.form form button,.form form textarea{
+    height: 35px;
+    margin: 0 25px 20px 25px;
+    border: thin solid rgba(52, 56, 53, 0.2);
+    color: #a4a8a5;
+    padding-left: 16px;
+}
+
+.form form textarea {
+    height: 100px;
+    padding-top: 16px;
+    font-family: San-Serif;
+
+}
+
+.form form button {
+    background-color: #000;
+    color: #fff;
+    font-size: 10px;
+}
+
+.form h3 {
+    text-align: center;
+    padding: 36px 0;
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+.contact {
+    width: 333px;
+    padding: 44px 0 0 80px;
+
+}
+
+.contact h1 {
+    font-weight: 300;
+}
+
+.contact>p {
+    font-weight: 200;
+    font-size: 13px;
+    line-height: 20px;
+    padding-top: 28px;
+}
+
+.l-icon {
+    padding-top: 50px;
+    display: flex;
+    flex-flow: column;
+}
+
+.location {
+    padding-bottom: 20px;
+}
+
+.location img {
+    float: left;
+    padding-top: 3px;
+}
+
+.location p {
+    margin-left: 36px;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+footer {
+    width: 1130px;
+    margin: auto;
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-left: 175px;
+}
+
+footer h4 {
+    font-weight: 400;
+    padding-bottom: 26px;
+    letter-spacing: 1px;
+    font-size: 12px;
+}
+
+footer p,footer span {
+    font-weight: 200;
+    font-size: 13px;
+    opacity: 0.4;
+    padding-bottom: 20px;
+}
+
+footer span {
+    padding-right: 18px;
+}
+
+.support {
+    flex: 1;
+    padding: 60px 0 80px 0;
+}
+
+.enjoy {
+    flex: 2;
+    height: 140px;
+    padding: 60px 0 80px 0;
+}
