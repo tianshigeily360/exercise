@@ -25,6 +25,11 @@ h1,h2,h3,p {
 
 .nav-content {
     padding:10px 0 0 145px;
+    height: 50px;
+}
+
+.nav-content span {
+    font-weight: 400;
 }
 
 h2 {
@@ -64,4 +69,13 @@ h2 {
 .right {
     margin-left:10%;
     float:left;
+}
+
+#btn {
+    margin-left: 14.5%;
+}
+
+#text {
+    display: inline-block;
+    background-color: #ffab6d;
 }
