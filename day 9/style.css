@@ -70,15 +70,14 @@ header h4 {
     border: thin solid rgba(255, 255, 255, 0.2);
     padding-left: 16px;
     margin-right: 21px;
-}
-
-.box input:nth-child(2) {
-    color: #64625D;
+    border-radius: 10px;
 }
 
 #submit {
+    border-radius: 10px;
     color: #000;
     font-size: 8px;
+    border: thin solid rgba(255, 255, 255, 0.2);
 }
 
 .box input {
@@ -200,11 +199,12 @@ header h4 {
     font-size: 8px;
     margin-right: 21px;
     letter-spacing: 1px;
+    border-radius: 10px;
+    border: thin solid rgba(255, 255, 255, 0.2);
 }
 
 form button:nth-child(2) {
     background-color: transparent;
-    border: thin solid rgba(255, 255, 255, 0.2);
     color: #fff;
 }
 
@@ -456,6 +456,7 @@ form button:nth-child(2) {
 .form form input,.form form button,.form form textarea{
     height: 35px;
     margin: 0 25px 20px 25px;
+    border-radius: 10px;
     border: thin solid rgba(52, 56, 53, 0.2);
     color: #a4a8a5;
     padding-left: 16px;
