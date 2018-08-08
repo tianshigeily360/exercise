@@ -1,6 +1,10 @@
+html,body {
+    height: 100%;
+}
+
 .float {
     position: relative;
-    height:1000px;
+    height:100%;
 }
 
 .left {
