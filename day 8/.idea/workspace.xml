@@ -47,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="float-margin.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="float-margin.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/position/4/float-margin.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
@@ -56,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="float-margin.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="float-margin.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/position/4/float-margin.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="16" selection-end-line="29" selection-end-column="1" />
+            <state relative-caret-position="464">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -85,7 +85,6 @@
         <option value="$PROJECT_DIR$/position/3/float3.css" />
         <option value="$PROJECT_DIR$/position/3/position.css" />
         <option value="$PROJECT_DIR$/position/4/float.css" />
-        <option value="$PROJECT_DIR$/position/4/float-margin.css" />
         <option value="$PROJECT_DIR$/position/5/flexbox.css" />
         <option value="$PROJECT_DIR$/position/5/float.css" />
         <option value="$PROJECT_DIR$/position/5/float-margin.css" />
@@ -97,6 +96,7 @@
         <option value="$PROJECT_DIR$/position/4/absolute.css" />
         <option value="$PROJECT_DIR$/position/4/index.html" />
         <option value="$PROJECT_DIR$/position/4/flexbox.css" />
+        <option value="$PROJECT_DIR$/position/4/float-margin.css" />
       </list>
     </option>
   </component>
@@ -177,12 +177,12 @@
       <option name="presentableId" value="Default" />
       <updated>1533606275618</updated>
       <workItem from="1533606277171" duration="544000" />
-      <workItem from="1533607057488" duration="9716000" />
+      <workItem from="1533607057488" duration="10934000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10260000" />
+    <option name="totallyTimeSpent" value="11478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -432,17 +432,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/position/4/float-margin.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="16" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/position/4/float-margin.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="10" selection-start-line="10" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/position/4/float-margin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
         </state>
       </provider>
     </entry>
