@@ -394,7 +394,10 @@ ul {
     display: inline-block;
     padding-left: 8px;
 }
+/* #endregion */
+/* #endregion */
 
+/* #region 课程提交按钮 */
 .main .course-sub {
     padding-top: 32px;
 }
@@ -411,7 +414,9 @@ ul {
     background: #1bbc9c;
     border-radius: 4px;
 }
+/* #endregion */
 
+/* #region 页脚 */
 .footer {
     margin-top: 70px;
     height: 98px;
@@ -421,9 +426,5 @@ ul {
     color: #fff;
     font-size: 14px;
 }
-
-/* #endregion */
-
-/* #endregion */
 
 /* #endregion */
